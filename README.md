@@ -1,16 +1,77 @@
-## Hi there 👋
-这里暂时还没有内容，但是以后再来看看说不定会有呢？
+# 你好，我是凌煊
+
+电子信息工程在读，主要专注于 **MCU 软硬件开发**，也对各类技术方向保持持续兴趣。
+
+## 关于我
+
+- 🎓 电子信息工程本科在读
+- 🔧 关注方向：嵌入式系统、MCU 开发、软硬件协同设计、嵌入式Linux程序设计
+- 🌱 持续学习：底层开发工具链、工程化流程、软硬件设计实践
+- 💡 兴趣广泛：愿意接触和探索不同技术栈
+
+## 交流语言
+
+- ✅中文
+- ☑️English (basic)
+
+## 技术栈
+
+### 嵌入式软件
+
+- 🧠 MCU 平台
+  - STM32 (`HAL`)
+  - ESP32 (`ESP-IDF`)
+- ⚙️ 架构
+  - ARM Cortex-M
+- 💻 编程语言
+  - C / C++
+  - Python
+- 🛠️ 工具链与工作流
+  - CubeMX + CMake + GCC + OpenOCD
+  - Keil + ARMCC
+  - ESP-IDF
+  - git
+
+### 硬件设计
+
+- 📐 EDA 工具
+  - JLCEDA（最常用）
+  - Altium Designer
+- 🔌 开发方向
+  - 数字系统
+
+## 开发环境
+
+- 🖥️ 操作系统：Windows + WSL（Ubuntu 24.04）
+- 🧰 编辑器：VS Code / Neovim
+- 🖲️ 终端：powershell / zsh
+- 🧪 调试 / 烧录工具：CMSIS-DAP + OpenOCD
+
+## 感兴趣的方向
+
+- MCU 固件开发
+- 嵌入式调试与工具链
+- 嵌入式 Linux 驱动 / 应用层设计
+- 硬件设计与调试
+- 数字电路设计
+- 跨方向工程项目
+
+
+## 目前状态
+
+- 🚀 持续打磨嵌入式开发技能
+- 📚 学习更完整的软硬件协同开发流程
+- 🧩 积累可以长期维护和展示的项目
+
+## 持续更新中...
+
 <!--
-**RainLX1476/RainLX1476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+后续还可以补充：
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- GitHub 统计卡片
+- 重点项目展示
+- 联系方式
+- 博客 / 笔记链接
+- 开发环境说明
+- 开源兴趣方向
 -->
